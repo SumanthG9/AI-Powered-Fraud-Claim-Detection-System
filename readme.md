@@ -1,5 +1,4 @@
-```markdown
-# AI-Powered Health Insurance Claim Fraud Detection System
+### AI-Powered Health Insurance Claim Fraud Detection System
 
 A full-stack web application designed to detect fraudulent health insurance claims in real-time using machine learning. This system provides an end-to-end ML workflow, from synthetic data generation and model training to deployment via a RESTful API with an interactive web dashboard.
 
@@ -17,7 +16,7 @@ Built to address core business challenges for insurance providers, enabling proa
 ## 🛠 Tech Stack
 
 | Category | Technologies |
-|----------|-------------|
+|----------|--------------|
 | **Frontend** | React, Axios, HTML5, CSS3 |
 | **Backend** | FastAPI, Python, Uvicorn |
 | **Machine Learning** | Scikit-learn, Pandas, NumPy, imbalanced-learn, Joblib |
@@ -40,7 +39,6 @@ Before setting up the project, ensure you have the following installed:
 ```bash
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
-```
 
 ### 2. Backend Setup
 
