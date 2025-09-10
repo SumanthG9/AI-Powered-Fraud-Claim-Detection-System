@@ -1,4 +1,4 @@
-```
+```markdown
 # AI-Powered Health Insurance Claim Fraud Detection System
 
 A full-stack web application designed to detect fraudulent health insurance claims in real-time using machine learning. This system provides an end-to-end ML workflow, from synthetic data generation and model training to deployment via a RESTful API with an interactive web dashboard.
@@ -38,8 +38,8 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/starhealth-fraud-detection.git
-cd starhealth-fraud-detection
+git clone https://github.com/your-username/repo-name.git
+cd repo-name
 ```
 
 ### 2. Backend Setup
@@ -70,12 +70,12 @@ pip install -r requirements.txt
 
 2. **Create the database:**
    ```bash
-   createdb -U postgres starhealth_fraud
+   createdb -U postgres claim_fraud
    ```
 
 3. **Set up database schema:**
    ```bash
-   psql -U postgres -d starhealth_fraud -f schema.sql
+   psql -U postgres -d claim_fraud -f schema.sql
    ```
 
 4. **Generate synthetic data:**
@@ -134,7 +134,7 @@ Frontend will be available at: `http://localhost:3000`
 ## 🗂 Project Structure
 
 ```
-starhealth-fraud-detection/
+Claim-Fraud-Detection/
 ├── backend/
 │   ├── main.py              # FastAPI application
 │   ├── models/              # ML model files
