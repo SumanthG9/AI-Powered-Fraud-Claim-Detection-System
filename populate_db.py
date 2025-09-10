@@ -6,8 +6,8 @@ import os
 
 # --- Database Connection Configuration ---
 # IMPORTANT: Replace 'your_password' with your actual PostgreSQL password.
-DB_USER = 'postgres'
-DB_PASSWORD = '123456789' 
+DB_USER = 'username'
+DB_PASSWORD = 'your_password' 
 DB_HOST = 'localhost'
 DB_PORT = '5432'
 DB_NAME = 'starhealth_fraud'
