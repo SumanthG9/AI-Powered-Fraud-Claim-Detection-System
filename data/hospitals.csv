@@ -1,0 +1,201 @@
+hospital_id,name,location
+H0000,"Pradhan, Sibal and Misra Hospital",Tiruppur
+H0001,Palla-Kumar Hospital,Mehsana
+H0002,Bose-Sood Hospital,Anand
+H0003,"Sarin, Swamy and Sekhon Hospital",Aurangabad
+H0004,"Dara, Gera and Rama Hospital",Kulti
+H0005,Swamy-Loke Hospital,Warangal
+H0006,Keer PLC Hospital,Kozhikode
+H0007,"Varty, Pandya and Chad Hospital",Moradabad
+H0008,Randhawa PLC Hospital,Bhiwani
+H0009,"Dixit, Deep and Sachdev Hospital",Firozabad
+H0010,Jayaraman Group Hospital,Guntakal
+H0011,Batra-Choudhary Hospital,Raurkela Industrial Township
+H0012,Sundaram Group Hospital,Khammam
+H0013,Khosla-Murty Hospital,Jalgaon
+H0014,Mammen-Chokshi Hospital,Imphal
+H0015,Aggarwal-Sehgal Hospital,Suryapet
+H0016,"Goswami, Sanghvi and Choudhury Hospital",Kavali
+H0017,Mand Ltd Hospital,Orai
+H0018,Chakrabarti PLC Hospital,Sasaram
+H0019,"Karan, Kumar and Ganesh Hospital",Jamshedpur
+H0020,"Jani, Saran and Prabhu Hospital",Tirunelveli
+H0021,"Narang, Luthra and Gill Hospital",Aurangabad
+H0022,"Sahota, Johal and Rama Hospital",Sri Ganganagar
+H0023,"Rao, Keer and Kulkarni Hospital",Ranchi
+H0024,"Bhagat, Wagle and Chad Hospital",Thiruvananthapuram
+H0025,Sinha-Baral Hospital,Gandhidham
+H0026,Singh LLC Hospital,Sambalpur
+H0027,Bhatnagar Inc Hospital,Erode
+H0028,Anne and Sons Hospital,Jalgaon
+H0029,"D’Alia, Prakash and Pant Hospital",Bhagalpur
+H0030,Shankar and Sons Hospital,Mathura
+H0031,Acharya-Saraf Hospital,Patna
+H0032,Mitra Group Hospital,Chapra
+H0033,Purohit-Oak Hospital,Darbhanga
+H0034,Bandi PLC Hospital,Ballia
+H0035,Vohra LLC Hospital,Coimbatore
+H0036,"Ahluwalia, Rajagopal and Ranganathan Hospital",Tirupati
+H0037,Pillay Ltd Hospital,Jehanabad
+H0038,Kunda PLC Hospital,Khandwa
+H0039,"Dutta, Nadkarni and Subramanian Hospital",Sonipat
+H0040,"Krishna, Borde and Bedi Hospital",Hazaribagh
+H0041,Borde-Mandal Hospital,Proddatur
+H0042,Sinha Inc Hospital,Tirupati
+H0043,Sanghvi Inc Hospital,Bongaigaon
+H0044,Dhillon-Basu Hospital,Hindupur
+H0045,Krishna LLC Hospital,Gwalior
+H0046,"Toor, Jaggi and Merchant Hospital",Srikakulam
+H0047,Sarkar-Dora Hospital,Panchkula
+H0048,Chhabra and Sons Hospital,Panihati
+H0049,"Gupta, Rajagopalan and Sane Hospital",Bareilly
+H0050,"Naik, Hegde and Bassi Hospital",Ozhukarai
+H0051,Malhotra LLC Hospital,Imphal
+H0052,Nagy-Bose Hospital,Kota
+H0053,Krish and Sons Hospital,Bellary
+H0054,Ahluwalia-Rao Hospital,Jehanabad
+H0055,"Karnik, Badal and Gandhi Hospital",Bidar
+H0056,Parsa-Dube Hospital,Berhampore
+H0057,"Srinivas, Rai and Kar Hospital",Bhalswa Jahangir Pur
+H0058,Kanda LLC Hospital,Bhimavaram
+H0059,"Bali, Gara and Kannan Hospital",Meerut
+H0060,Bora Inc Hospital,Ongole
+H0061,"Rattan, Sarin and Chhabra Hospital",Jalgaon
+H0062,Patil-Talwar Hospital,Jabalpur
+H0063,"Seshadri, Sen and Mani Hospital",Mangalore
+H0064,Mallick-Borra Hospital,Kharagpur
+H0065,"Ratti, Saxena and Manda Hospital",Meerut
+H0066,Sarna-Jha Hospital,Khora 
+H0067,Koshy Inc Hospital,Bangalore
+H0068,Varty-Dhillon Hospital,Aurangabad
+H0069,Krish LLC Hospital,Jorhat
+H0070,"Kade, Das and Menon Hospital",Gaya
+H0071,"Johal, Mital and Narasimhan Hospital",Kozhikode
+H0072,Kale LLC Hospital,Katni
+H0073,Mistry-Chakrabarti Hospital,Latur
+H0074,Dugar-Gaba Hospital,Madurai
+H0075,"Halder, Sachar and Chada Hospital",Mango
+H0076,Sangha-Sachdev Hospital,Vijayawada
+H0077,Sidhu Ltd Hospital,Jamshedpur
+H0078,Parekh-Sankaran Hospital,Saharanpur
+H0079,Vora-Hayre Hospital,Thane
+H0080,Randhawa Inc Hospital,Ramagundam
+H0081,"Raj, Sathe and Sem Hospital",Vijayawada
+H0082,Lata-Kalita Hospital,Vellore
+H0083,Sangha-Walla Hospital,Nellore
+H0084,Tara-Hari Hospital,Mangalore
+H0085,Gour LLC Hospital,Bhagalpur
+H0086,Krish-Mahajan Hospital,Aligarh
+H0087,Mutti-Sathe Hospital,Uluberia
+H0088,Sinha Group Hospital,Bhilwara
+H0089,"Nagar, Vasa and Mann Hospital",Chinsurah
+H0090,"Narula, Chandra and Jha Hospital",Warangal
+H0091,Nagar LLC Hospital,Dhanbad
+H0092,"Gola, Chanda and Mittal Hospital",Eluru
+H0093,"Kala, Dube and Narayanan Hospital",Jehanabad
+H0094,"Parikh, Dutta and Date Hospital",Patna
+H0095,Vig-Vasa Hospital,Maheshtala
+H0096,Chakraborty Group Hospital,Raebareli
+H0097,"Doctor, Bose and Kalita Hospital",Pondicherry
+H0098,Deol-Pandya Hospital,Khandwa
+H0099,Om-Bakshi Hospital,Gulbarga
+H0100,Magar-Bawa Hospital,Nanded
+H0101,Dua-Dua Hospital,Alappuzha
+H0102,Rajagopal LLC Hospital,Gangtok
+H0103,"Kannan, Samra and Dutt Hospital",Bardhaman
+H0104,"Kant, Datta and Zachariah Hospital",Sasaram
+H0105,Krish Ltd Hospital,Srinagar
+H0106,"Jhaveri, Keer and Golla Hospital",Hapur
+H0107,Bahri PLC Hospital,Burhanpur
+H0108,Chaudhary Group Hospital,Madhyamgram
+H0109,Sandal-Raj Hospital,Indore
+H0110,Kar-Sachdeva Hospital,Motihari
+H0111,Dutta-Khalsa Hospital,Vasai-Virar
+H0112,"Tandon, Warrior and Arya Hospital",Bathinda
+H0113,Sarin-Zachariah Hospital,Bidar
+H0114,Biswas-Bala Hospital,Avadi
+H0115,Boase LLC Hospital,Gaya
+H0116,Jha-Dixit Hospital,Buxar
+H0117,Agarwal Ltd Hospital,Nizamabad
+H0118,Sehgal PLC Hospital,Rajkot
+H0119,"Mitra, Mandal and Banerjee Hospital",Asansol
+H0120,Raju Ltd Hospital,Farrukhabad
+H0121,"Modi, Mahajan and Krishna Hospital",Jorhat
+H0122,Bhavsar PLC Hospital,Amroha
+H0123,Cheema-Soni Hospital,Katni
+H0124,"Gaba, Choudhry and Handa Hospital",Panihati
+H0125,"Narayanan, Arya and Prasad Hospital",Mysore
+H0126,"Guha, Loyal and Thakkar Hospital",Malda
+H0127,Devi-Jain Hospital,Ramgarh
+H0128,Oak and Sons Hospital,Kishanganj
+H0129,Muni and Sons Hospital,Motihari
+H0130,"Cherian, Sant and Gala Hospital",Gulbarga
+H0131,"Ghosh, Madan and Ramanathan Hospital",Dewas
+H0132,Sharma LLC Hospital,Nagercoil
+H0133,"Thaker, Gala and Memon Hospital",Bhalswa Jahangir Pur
+H0134,Basak Inc Hospital,Sambhal
+H0135,Sastry-Swaminathan Hospital,Ahmednagar
+H0136,Rattan-Panchal Hospital,Gorakhpur
+H0137,Dora-Kurian Hospital,Vellore
+H0138,Kalla LLC Hospital,Proddatur
+H0139,"Pall, Kota and Walla Hospital",Mangalore
+H0140,Khare-Wadhwa Hospital,Bongaigaon
+H0141,Aurora and Sons Hospital,Vadodara
+H0142,"Naik, Arora and Dhawan Hospital",Muzaffarpur
+H0143,"Desai, Saini and Krish Hospital",Pune
+H0144,"Chacko, Vasa and Thaman Hospital",Raebareli
+H0145,Choudhury LLC Hospital,Sonipat
+H0146,Kumar-Chana Hospital,Faridabad
+H0147,"Barad, Mody and Shroff Hospital",Deoghar
+H0148,"Kade, Chacko and Goyal Hospital",Panchkula
+H0149,"Suresh, Thakkar and Mishra Hospital",Mau
+H0150,"Dutta, Bala and Virk Hospital",Thane
+H0151,Hayer-Zachariah Hospital,Hyderabad
+H0152,Khurana Inc Hospital,Tirupati
+H0153,Dora-Mangat Hospital,Davanagere
+H0154,Aggarwal-Doshi Hospital,Surat
+H0155,Dyal and Sons Hospital,Chennai
+H0156,Parmer Ltd Hospital,Satara
+H0157,Amble PLC Hospital,Warangal
+H0158,Reddy Group Hospital,Kochi
+H0159,"Mand, Guha and Bail Hospital",South Dumdum
+H0160,Sant-Kala Hospital,Asansol
+H0161,"Goyal, Chahal and Dhar Hospital",New Delhi
+H0162,Yadav-Chaudhuri Hospital,Thoothukudi
+H0163,"Sahni, Rai and Char Hospital",Tirupati
+H0164,Mannan Ltd Hospital,Buxar
+H0165,Karnik-Srivastava Hospital,Varanasi
+H0166,Boase-Chaudhuri Hospital,Bhilwara
+H0167,Cherian PLC Hospital,Hindupur
+H0168,Radhakrishnan-Dey Hospital,Vasai-Virar
+H0169,"Bumb, Chada and Bajwa Hospital",Bihar Sharif
+H0170,"Hayer, Krishna and Pandey Hospital",Salem
+H0171,Seth Ltd Hospital,Suryapet
+H0172,Nayak-Lalla Hospital,Aligarh
+H0173,"Sarraf, Jaggi and Soni Hospital",Ichalkaranji
+H0174,Palla PLC Hospital,Meerut
+H0175,Gade Group Hospital,Tiruchirappalli
+H0176,Gole-Madan Hospital,Jalandhar
+H0177,Prasad-Mallick Hospital,Mango
+H0178,Narula-Kara Hospital,Tinsukia
+H0179,"Wason, Bhatia and Sanghvi Hospital",Dhanbad
+H0180,Chad LLC Hospital,Nagaon
+H0181,Guha-Dhingra Hospital,Tadipatri
+H0182,Bedi-Bahl Hospital,Shahjahanpur
+H0183,"Char, Roy and Kakar Hospital",Phagwara
+H0184,"Mani, Dani and Mane Hospital",Panihati
+H0185,De-Oak Hospital,Pudukkottai
+H0186,Majumdar-Chaudhary Hospital,Surendranagar Dudhrej
+H0187,Peri PLC Hospital,Baranagar
+H0188,"Sangha, Vyas and Gara Hospital",Khammam
+H0189,"Pingle, Narasimhan and Suri Hospital",Madhyamgram
+H0190,"Gala, Kalita and Dora Hospital",Jehanabad
+H0191,Sangha Ltd Hospital,Aurangabad
+H0192,Dhaliwal-Chakrabarti Hospital,Ujjain
+H0193,"Warrior, Chopra and Chauhan Hospital",Jamnagar
+H0194,Deshmukh Ltd Hospital,Kurnool
+H0195,Mane Inc Hospital,Kota
+H0196,Parmar Inc Hospital,Ramagundam
+H0197,Bobal PLC Hospital,Amritsar
+H0198,Contractor Inc Hospital,Latur
+H0199,Sehgal-Jain Hospital,Jodhpur
