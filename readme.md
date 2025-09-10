@@ -151,21 +151,43 @@ Claim-Fraud-Detection/
 
 ## 📊 Model Performance
 
-The RandomForestClassifier achieves exceptional performance on the test dataset:
+The RandomForestClassifier achieves strong performance on both synthetic and external test datasets.
 
-### Overall Metrics
-- **Accuracy**: 100% (3000/3000 samples correctly classified)
-- **Macro Average F1-Score**: 1.00
-- **Weighted Average F1-Score**: 1.00
-
-### Class-wise Performance
+### Performance on Synthetic Dataset
+- **Accuracy**: 100% (3000/3000 samples correctly classified)  
+- **Macro Average F1-Score**: 1.00  
+- **Weighted Average F1-Score**: 1.00  
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
 | **Not Fraud** | 1.00 | 1.00 | 1.00 | 2,855 |
 | **Fraud** | 1.00 | 1.00 | 1.00 | 145 |
 
-**Note**: These perfect scores indicate excellent model performance on the synthetic dataset. In production environments with real-world data, performance metrics may vary due to data complexity and edge cases.
+**Note**: These perfect scores indicate excellent model performance on the synthetic dataset.  
+
+---
+
+### 🔬 Final Performance Report (on 10,000 new samples)
+
+- **Accuracy on New Test Set**: 0.9692  
+- **F1-Score for Fraud Class**: 0.7944  
+
+#### Full Classification Report
+
+| Class              | Precision | Recall | F1-Score | Support |
+|--------------------|-----------|--------|----------|---------|
+| **Not Fraud (False)** | 1.00      | 0.97   | 0.98     | 9405    |
+| **Fraud (True)**      | 0.66      | 1.00   | 0.79     | 595     |
+
+| Metric        | Score |
+|---------------|-------|
+| **Accuracy**  | 0.97  |
+| **Macro Avg** | Precision: 0.83, Recall: 0.98, F1: 0.89 |
+| **Weighted Avg** | Precision: 0.98, Recall: 0.97, F1: 0.97 |
+
+**Interpretation**:  
+While the model maintains very high accuracy overall, the fraud class shows lower precision but excellent recall. This means the system catches nearly all fraudulent cases (high recall), though it occasionally flags legitimate claims as fraud (lower precision). This trade-off can be tuned depending on business priorities.
+
 
 ## 🚀 Deployment
 
