@@ -1,4 +1,4 @@
-```markdown
+```
 # AI-Powered Health Insurance Claim Fraud Detection System
 
 A full-stack web application designed to detect fraudulent health insurance claims in real-time using machine learning. This system provides an end-to-end ML workflow, from synthetic data generation and model training to deployment via a RESTful API with an interactive web dashboard.
