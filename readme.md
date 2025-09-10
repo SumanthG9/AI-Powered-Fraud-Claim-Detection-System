@@ -150,26 +150,6 @@ starhealth-fraud-detection/
 └── README.md               # Project documentation
 ```
 
-## 🔍 API Endpoints
-
-- **POST** `/predict` - Submit claim data for fraud detection
-- **GET** `/health` - Check API health status
-- **GET** `/docs` - Interactive API documentation (Swagger UI)
-
-## 🧪 Testing
-
-### Backend Testing
-```bash
-# Run backend tests
-python -m pytest tests/
-```
-
-### Frontend Testing
-```bash
-# Run frontend tests
-cd frontend/claim-dashboard
-npm test
-```
 
 ## 📊 Model Performance
 
@@ -197,14 +177,6 @@ The RandomForestClassifier achieves exceptional performance on the test dataset:
 2. **Cloud Platforms**: Deploy on AWS, GCP, or Azure
 3. **Traditional Servers**: Use gunicorn for production WSGI server
 
-### Environment Variables
-
-Create a `.env` file with:
-```env
-DATABASE_URL=postgresql://username:password@localhost/starhealth_fraud
-SECRET_KEY=your-secret-key
-DEBUG=False
-```
 
 ## 🤝 Contributing
 
@@ -213,18 +185,6 @@ DEBUG=False
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋‍♂️ Support
-
-For questions, issues, or contributions:
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/starhealth-fraud-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/starhealth-fraud-detection/discussions)
-- **Email**: your-email@example.com
 
 ## 🙏 Acknowledgments
 
